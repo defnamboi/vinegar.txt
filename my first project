@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    
+    <!--Title-->
+    <title>Nam</title>
+  </head> <!--this is head-->
+  <body style = "display:flex ;justify-content:">
+  <div style = "width:50%">   
+          <!--Perssonal info-->
+      </div>
+    <div style = "text-allign:center">
+
+    <img src = "https://avatars.githubusercontent.com/u/88914513?v=4" style="width: 85px" > 
+    
+    <h1>Nam</h1> <!--h1 = biggest heading -->
+    <h2>namnguyenthanh200333@gmail.com </h2>
+     <hr /> 
+  </div>
+  <!--group 1-->
+  <!--Education-->
+  <div style = "display:flex; justify-content: space-evenly">
+  <div style = "width : 50%;">
+    <h1>Education</h1>
+    <hr style="width:100px;margin-left: 0">
+    <ul> 
+      <li>Jurong Pioneer Junior College</li>
+      <li>Presbyterian High School</li>
+      <li>Balestier Hill Primary School</li>
+    </ul>
+  </div>
+  <!--CCA-->
+  <div style = "width : 50%">
+    <h1>CCA<h1>
+    <hr style="width:100px;margin-left: 0">
+    
+    <!--CCA 1 -->
+      <h2 style = "line-height:2px">Floorball</h2>
+      <ul>
+        <li>Vice captain
+        </ul>
+    <!--CCA 2 -->        
+      <h2 style = "line-height:2px">NPCC</h2>
+      <ul>
+        <li> Secondary 4 Squad In Charge</li>
+        <li> Events participated</li>
+        <ol type = "I"> 
+          <li>National NPCC Annual Parade </li> 
+          <li>Survival Training Camp(STC)</li>
+          <li>Adventure Training Camp(ATC)</li>
+        </ul>
+      </div>
+    </div>
+  <!--group 2-->
+<div style = "display:flex; justify-content: space-evenly">
+  <!--Interest-->
+  <div style = "width : 50%">
+    <h1>Interest</h1>
+    <hr style="width:100px;margin-left: 0">
+    <!--Interest 1-->
+    <h2 style = "line-height:2px">Sports</h2>
+    <ul> 
+      <li>Badminton</li>
+      <li>Basketball</li>
+    </ul>
+  </div>
+
+  
+  <!--work exp-->
+  <div style = "width : 50%">
+    <h1>Work experience</h1>
+    <hr style="width:100px;margin-left: 0">
+    <!--work exp 1 -->
+    <h2 style = "line-height:2px">Waiter</h2>
+    <ul>
+      <li>Greet customers and assign them a table</li>
+      <li>Answer questions about the menu</li>
+      <li>Process payment at the counter</li>
+  </div>
+  </div>
+</div>
+    </body>
+
+</html>
